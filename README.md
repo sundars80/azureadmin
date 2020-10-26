@@ -1,0 +1,2 @@
+# azureadmin
+practice commands
